@@ -1,0 +1,7 @@
+# ChatBot
+train_model.py为训练模型的脚本
+encoder_decoder.py为模型的脚本文件
+text_Chat.py为文本聊天界面
+video_Chat.py为语音聊天界面
+study_model.py为学习模型脚本，该脚本会在聊天过程中未知的问题进行收集，然后通过该脚本人为的告诉它正确的回答。然后在下次训练时就能学习了。
+tools文件夹中是一些数据预处理的工具，然后一些小功能的工具。
